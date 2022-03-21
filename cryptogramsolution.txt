@@ -1,4 +1,4 @@
 queue
 pair-programming
 advisor meetings
-message advisor or mentor
+message instructor or mentor
